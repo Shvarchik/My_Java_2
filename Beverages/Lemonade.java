@@ -1,4 +1,4 @@
-﻿package Sem1.Task2.Beverages;
+﻿package My_Java_OOP1.Beverages;
 
 public class Lemonade extends Beverage{
 

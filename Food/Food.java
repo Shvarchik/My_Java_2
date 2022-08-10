@@ -1,7 +1,7 @@
-﻿package Sem1.Task2.Food;
+﻿package My_Java_OOP1.Food;
 
 import java.time.LocalDate;
-import Sem1.Task2.Goods;
+import My_Java_OOP1.Goods;
 import java.util.ArrayList;
 
 public abstract class Food extends Goods {

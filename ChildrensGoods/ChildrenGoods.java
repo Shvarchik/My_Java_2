@@ -1,7 +1,7 @@
-﻿package Sem1.Task2.ChildrensGoods;
+﻿package My_Java_OOP1.ChildrensGoods;
 
 import java.util.ArrayList;
-import Sem1.Task2.Goods;
+import My_Java_OOP1.Goods;
 
 public class ChildrenGoods extends Goods{
 

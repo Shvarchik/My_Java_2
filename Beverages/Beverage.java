@@ -1,8 +1,8 @@
-﻿package Sem1.Task2.Beverages;
+﻿package My_Java_OOP1.Beverages;
 
 import java.util.ArrayList;
 
-import Sem1.Task2.Goods;
+import My_Java_OOP1.Goods;
 
 public abstract class Beverage extends Goods {
 

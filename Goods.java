@@ -1,4 +1,4 @@
-﻿package Sem1.Task2;
+﻿package My_Java_OOP1;
 
 public abstract class Goods {
 

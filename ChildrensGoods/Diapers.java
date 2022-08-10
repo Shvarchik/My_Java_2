@@ -1,4 +1,4 @@
-﻿package Sem1.Task2.ChildrensGoods;
+﻿package My_Java_OOP1.ChildrensGoods;
 
 public class Diapers extends ChildrenGoods {
 

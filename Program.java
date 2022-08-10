@@ -1,9 +1,9 @@
-﻿package Sem1.Task2;
+﻿package My_Java_OOP1;
 
-import Sem1.Task2.Food.*;
-import Sem1.Task2.Hygiene.*;
-import Sem1.Task2.Beverages.*;
-import Sem1.Task2.ChildrensGoods.*;
+import My_Java_OOP1.Food.*;
+import My_Java_OOP1.Hygiene.*;
+import My_Java_OOP1.Beverages.*;
+import My_Java_OOP1.ChildrensGoods.*;
 
 public class Program {
 

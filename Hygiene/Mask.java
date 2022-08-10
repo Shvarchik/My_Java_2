@@ -1,4 +1,4 @@
-﻿package Sem1.Task2.Hygiene;
+﻿package My_Java_OOP1.Hygiene;
 
 public class Mask extends Hygiene {
 

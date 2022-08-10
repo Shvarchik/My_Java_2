@@ -1,7 +1,7 @@
-﻿package Sem1.Task2.Hygiene;
+﻿package My_Java_OOP1.Hygiene;
 
 import java.util.ArrayList;
-import Sem1.Task2.Goods;
+import My_Java_OOP1.Goods;
 
 public abstract class Hygiene extends Goods{
 

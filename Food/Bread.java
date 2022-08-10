@@ -1,4 +1,4 @@
-﻿package Sem1.Task2.Food;
+﻿package My_Java_OOP1.Food;
 
 public class Bread extends Food {
 
