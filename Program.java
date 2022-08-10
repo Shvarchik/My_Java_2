@@ -3,8 +3,7 @@
 import Sem1.Task2.Food.*;
 import Sem1.Task2.Hygiene.*;
 import Sem1.Task2.Beverages.*;
-import Sem1.Task2.ChildrensGoods.Diapers;
-import Sem1.Task2.ChildrensGoods.Pasifier;
+import Sem1.Task2.ChildrensGoods.*;
 
 public class Program {
 
