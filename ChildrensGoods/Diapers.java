@@ -20,8 +20,5 @@ public class Diapers extends ChildrenGoods {
     @Override
     public String toString() {
         return String.format("%d. %s %s, %s, size:%d, %d-%dкг", super.num, productName, this.type, super.toString(), this.size, this.minWeight, this.maxWeight);
-        // , size d%, %d - %d кг
-        //, this.size, this.minWeight, this.maxWeight);
-        
     }
 }
